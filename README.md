@@ -3,6 +3,8 @@
 - They can be used as base config files for your project.
 
 # Usage #
-1. Copy the files to their relevant root directory (i.e. backend or frontend).
-2. Delete the "backend" or "frontend" prefix at the start of the filename.
-- **E.g.**: Copy `backend.eslintrc.json` to the root directory of your backend, then change the filename (`backend.eslintrc.json` --> `.eslintrc.json`).
+1. Add the `devDependencies` in the **package.json** to your **package.json** in your frontend directory.
+2. Copy the eslint and prettier files to the root directory of your frontend.
+4. Run `npm install` in your frontend directory.
+
+_Note: In case of "backend", simply replace "frontend" with "backend" in the above steps._
