@@ -1,5 +1,5 @@
 # Overview #
-- Eslint & Prettier config files for a React app (Frontend + Backend).
+- Eslint & Prettier config files for a Web app ("create-react-app Frontend" + "Node Backend").
 - They can be used as base config files for your project.
 
 # Usage #
