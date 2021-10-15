@@ -1,7 +1,9 @@
 {
+  "printWidth": 90,
   "singleQuote": true,
-  "arrowParens": "always",
-  "quoteProps": "preserve",
+  "jsxSingleQuote": true,
+  "arrowParens": "avoid",
   "trailingComma": "none",
-  "endOfLine": "auto"
+  "endOfLine": "auto",
+  "quoteProps": "preserve"
 }
